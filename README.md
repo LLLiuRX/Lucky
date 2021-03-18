@@ -14,5 +14,5 @@ npm run serve
 
 
 ## 效果
-(https://github.com/LLLiuRX/Lucky/blob/main/src/assets/lucky.gif)
+![image](https://github.com/LLLiuRX/Lucky/blob/main/src/assets/lucky.gif)
 
